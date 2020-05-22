@@ -4,7 +4,7 @@ In this page, we present the full results of the benchmarking for the Freesound 
 
 ## Tempo Estimation
 
-#Various Annotations - Different
+### Various Annotations - Different
 
 | Algorithm | Accuracy1 | Accuracy1e | Accuracy2 | Mean Accuracy |
 | ---- | ---- | ---- | ---- | ---- |
