@@ -16,7 +16,7 @@ In this page, we present the full results of the benchmarking for the Freesound 
 | Bock15ACF | 75.37 | 54.01 | 91.56 | 73.64 |
 | Bock15DBN | 64.94 | 49.35 | 94.75 | 69.68 |
 
-#Various Annotations - Same
+### Various Annotations - Same
 
 | Algorithm | Accuracy1 | Accuracy1e | Accuracy2 | Mean Accuracy |
 | ---- | ---- | ---- | ---- | ---- |
@@ -28,7 +28,7 @@ In this page, we present the full results of the benchmarking for the Freesound 
 | Bock15ACF | 54.02 | 35.63 | 75.57 | 55.08 |
 | Bock15DBN | 44.35 | 32.09 | 79.50 | 51.98 |
 
-#Single Annotations
+### Single Annotations
 
 | Algorithm | Accuracy1 | Accuracy1e | Accuracy2 | Mean Accuracy |
 | ---- | ---- | ---- | ---- | ---- |
@@ -40,7 +40,7 @@ In this page, we present the full results of the benchmarking for the Freesound 
 | Bock15ACF | 52.30 | 29.27 | 72.36 | 51.31 |
 | Bock15DBN | 45.80 | 30.08 | 78.05 | 51.31 |
 
-#Automatic Annotations
+### Automatic Annotations
 
 | Algorithm | Accuracy1 | Accuracy1e | Accuracy2 | Mean Accuracy |
 | ---- | ---- | ---- | ---- | ---- |
@@ -52,9 +52,9 @@ In this page, we present the full results of the benchmarking for the Freesound 
 | Bock15ACF | 48.74 | 29.98 | 67.24 | 48.65 |
 | Bock15DBN | 38.73 | 26.45 | 72.10 | 45.76 |
 
-### Key Estimation
+## Key Estimation
 
-#Various Annotations - Different
+### Various Annotations - Different
 
 | Algorithm | Same | Fifth | Relative | Parallel | Mirex |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -65,7 +65,7 @@ In this page, we present the full results of the benchmarking for the Freesound 
 | EssentiaBasic | 90.05 | 1.57 | 1.83 | 3.14 | 92.02 |
 | QMULKeyDetector | 51.83 | 4.97 | 8.38 | 12.30 | 59.29 |
 
-#Various Annotations - Same
+### Various Annotations - Same
 
 | Algorithm | Same | Fifth | Relative | Parallel | Mirex |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -76,7 +76,7 @@ In this page, we present the full results of the benchmarking for the Freesound 
 | EssentiaBasic | 86.48 | 2.14 | 1.07 | 4.27 | 88.72 |
 | QMULKeyDetector | 35.94 | 5.69 | 5.34 | 10.32 | 42.46 |
 
-#Single Annotations
+### Single Annotations
 
 | Algorithm | Same | Fifth | Relative | Parallel | Mirex |
 | ---- | ---- | ---- | ---- | ---- | ---- |
